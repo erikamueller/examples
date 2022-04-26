@@ -1,9 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# Author(s): Ai Chen  & Erika Müller
-# date: 26.04.2022
-# Machine Translation FS2022
-# MT Exercise 3: Task 3 Implement acommand line prompt for text generation
+# coding: utf-8
 import argparse
 import time
 import math

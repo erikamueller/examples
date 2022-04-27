@@ -14,7 +14,8 @@ fast_neural_style/saved_models
 fast_neural_style/saved_models.zip
 docs/build
 docs/venv
-test.txt
+*.txt
+generate _erika.py
 
 # vi backups
 *~
